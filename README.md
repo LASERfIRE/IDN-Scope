@@ -1,6 +1,6 @@
 # IDN-Scope for Windows
 
-Version 1.08  23-Oct-2026
+Version 1.08 - 23-Oct-2026
 
 IDN-Scope is a minimal [IDN](https://www.ilda.com/idn.htm) receiver that displays DAC data in a simulator graphics window.
 It supports both UDP and TCP connections.  Source code has been made available and has been assembled from many of
